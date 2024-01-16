@@ -1,0 +1,14 @@
+2024/01/11-22:39:14.343 c26 Reusing MANIFEST /home/z/.config/chromium/Profile 1/WebStorage/7/IndexedDB/indexeddb.leveldb/MANIFEST-000001
+2024/01/11-22:39:14.344 c26 Recovering log #28
+2024/01/11-22:39:14.344 c26 Reusing old log /home/z/.config/chromium/Profile 1/WebStorage/7/IndexedDB/indexeddb.leveldb/000028.log 
+2024/01/11-22:39:14.345 c26 Delete type=2 #26
+2024/01/11-22:39:15.035 c26 Level-0 table #33: started
+2024/01/11-22:39:15.115 c26 Level-0 table #33: 7599 bytes OK
+2024/01/11-22:39:15.227 c26 Delete type=0 #28
+2024/01/11-22:39:15.228 c1c Manual compaction at level-0 from '\x00\x0a\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0b\x00\x00\x00' @ 0 : 0; will stop at '\x00\x0a\x01\x1f\x04\x03\x01\x03\x00N\x00E\x00W\x03\x00\x00\x00\x00\x00\x00L@\x03\x00 l\x02\xbc\xcfxB\x00\x03\x00\x00\x00\x00\x00\x00\xf0?' @ 1280 : 1
+2024/01/11-22:39:15.228 c1c Compacting 1@0 + 1@1 files
+2024/01/11-22:39:15.293 c1c Generated table #34@0: 184 keys, 2419 bytes
+2024/01/11-22:39:15.294 c1c Compacted 1@0 + 1@1 files => 2419 bytes
+2024/01/11-22:39:15.394 c1c compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/01/11-22:39:15.395 c1c Delete type=2 #33
+2024/01/11-22:39:15.397 c26 Manual compaction at level-0 from '\x00\x0a\x01\x1f\x04\x03\x01\x03\x00N\x00E\x00W\x03\x00\x00\x00\x00\x00\x00L@\x03\x00 l\x02\xbc\xcfxB\x00\x03\x00\x00\x00\x00\x00\x00\xf0?' @ 1280 : 1 .. '\x00\x0b\x00\x00\x00' @ 0 : 0; will stop at (end)

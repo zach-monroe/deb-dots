@@ -1,0 +1,6 @@
+2024/01/14-22:46:34.781 6513 Reusing MANIFEST /home/z/.config/chromium/Profile 1/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/01/14-22:46:34.782 6513 Recovering log #6
+2024/01/14-22:46:34.999 6513 Reusing old log /home/z/.config/chromium/Profile 1/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000006.log 
+2024/01/14-22:47:05.462 651d Level-0 table #11: started
+2024/01/14-22:47:05.669 651d Level-0 table #11: 2692727 bytes OK
+2024/01/14-22:47:05.758 651d Delete type=0 #6

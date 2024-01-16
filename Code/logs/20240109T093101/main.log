@@ -1,0 +1,7 @@
+2024-01-09 09:31:01.604 [info] update#setState idle
+2024-01-09 09:31:31.770 [info] update#setState checking for updates
+2024-01-09 09:31:31.776 [info] update#setState idle
+2024-01-09 09:47:32.714 [info] Extension host with pid 4002 exited with code: 0, signal: unknown.
+2024-01-09 09:47:33.903 [error] Extension host with pid 4002 still exists, forcefully killing it...
+2024-01-09 09:47:34.212 [warning] [storage main] detected slow close() operation: Time: 3697ms, DB size: 65536b, Large Keys: memento/workbench.editors.files.textFileEditor:4466, history.entries:4324, workbench.view.extensions.state:1963, __$__targetStorageMarker:1762, terminal.integrated.environmentVariableCollectionsV2:1191
+2024-01-09 09:47:34.213 [warning] [storage main] detected slow close() operation: Time: 3760ms, DB size: 163840b, Large Keys: iconThemeData:90164, colorThemeData:16272, memento/experiment.service.memento:3604, workbench.activity.placeholderViewlets:3002, __$__targetStorageMarker:2287

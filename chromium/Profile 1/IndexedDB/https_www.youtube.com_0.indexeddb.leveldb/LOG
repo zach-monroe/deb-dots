@@ -1,0 +1,4 @@
+2024/01/12-12:04:55.451 c1c Reusing MANIFEST /home/z/.config/chromium/Profile 1/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/01/12-12:04:55.451 c1c Recovering log #58
+2024/01/12-12:04:55.611 c1c Reusing old log /home/z/.config/chromium/Profile 1/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000058.log 
+2024/01/12-12:04:55.611 c1c Delete type=2 #57

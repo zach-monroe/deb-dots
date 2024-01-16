@@ -1,0 +1,10 @@
+2024-01-08 14:38:56.114 [info] update#setState idle
+2024-01-08 14:39:26.274 [info] update#setState checking for updates
+2024-01-08 14:39:26.293 [info] update#setState idle
+2024-01-08 15:39:26.292 [info] update#setState checking for updates
+2024-01-08 15:39:26.374 [info] update#setState idle
+2024-01-08 16:07:27.851 [warning] No ptyHost heartbeat after 6 seconds
+2024-01-08 16:07:30.080 [info] Extension host with pid 3768 exited with code: 0, signal: unknown.
+2024-01-08 16:07:31.037 [warning] [storage main] detected slow close() operation: Time: 4793ms, DB size: 65536b, Large Keys: history.entries:3890, memento/workbench.editors.files.textFileEditor:2714, workbench.view.extensions.state:1963, __$__targetStorageMarker:1762, terminal.integrated.environmentVariableCollectionsV2:1191
+2024-01-08 16:07:31.081 [error] Extension host with pid 3768 still exists, forcefully killing it...
+2024-01-08 16:07:31.253 [warning] [storage main] detected slow close() operation: Time: 5142ms, DB size: 163840b, Large Keys: iconThemeData:90164, colorThemeData:16272, workbench.activity.placeholderViewlets:4192, memento/experiment.service.memento:3604, __$__targetStorageMarker:2287

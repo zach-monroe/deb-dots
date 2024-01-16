@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>My Counter Tool</title>
+        <script src="~/Development/KeswickTool/node_modules/jquery.min.js"></script>
+        <script src="counter.js"></script>
+        <style>
+            div{
+                display: block;
+                background-color: grey;
+                width: 50%;
+                margin-left: 25%;
+                position: relative;
+                height: 200px;
+                border-radius: 6px;
+                padding-top: 10px;
+                padding-bottom: 15px;
+
+                
+            }
+            input{
+                width: 70%;
+                margin-left: 15%;
+                padding-left: 0px;
+                position: absolute;
+            }
+
+            #submit{
+                margin-top: 30px;
+                margin-left: 16%;
+                position: absolute;
+            }
+            label{
+                display: block;
+                text-align: center;
+                margin-top: 15px;
+                font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+            }
+
+            button{
+                margin-top: 100px;
+            }
+            pre {
+                white-space: pre-wrap;
+            }
+
+        </style>
+    </head>
+
+    <body>
+        <div>
+            <form>
+                <label for="fName">First Name:</label><br>
+                <input type="text" id="fName"><br>
+                <label for="lInitial">Last Initial:</label><br>
+                <input type="text" id="lInitial"><br>
+                <input type="submit" id="submit"><br>
+            
+            </form>
+            <button type="button" id="print">Print</button>
+        </div>
+        <pre></pre>
+
+    </body>
+</html>

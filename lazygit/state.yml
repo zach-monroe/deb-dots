@@ -1,0 +1,10 @@
+lastupdatecheck: 0
+recentrepos:
+- /home/z/Development/Udemy/12.0 Project
+startuppopupversion: 5
+customcommandshistory:
+- remmote add FirstCapstone
+- git init
+- git remote add origin git@github.com:zach-monroe/Portfolio.git
+hidecommandlog: false
+ignorewhitespaceindiffview: false

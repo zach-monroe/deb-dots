@@ -1,0 +1,6 @@
+2024/01/12-12:51:33.681 c19 Creating DB /home/z/.config/chromium/Profile 1/IndexedDB/https_www.pexels.com_0.indexeddb.leveldb since it was missing.
+2024/01/12-12:51:33.804 c19 Reusing MANIFEST /home/z/.config/chromium/Profile 1/IndexedDB/https_www.pexels.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/01/12-12:51:36.618 c1a Level-0 table #5: started
+2024/01/12-12:51:36.674 c1a Level-0 table #5: 3824 bytes OK
+2024/01/12-12:51:36.717 c1a Delete type=0 #3
+2024/01/12-12:51:36.719 c1a Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,35 @@
+2024/01/12-16:27:37.908 dc9 Reusing MANIFEST /home/z/.config/chromium/Profile 1/IndexedDB/https_www.facebook.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/01/12-16:27:37.908 dc9 Recovering log #51
+2024/01/12-16:27:37.954 dc9 Reusing old log /home/z/.config/chromium/Profile 1/IndexedDB/https_www.facebook.com_0.indexeddb.leveldb/000051.log 
+2024/01/12-16:27:39.826 dc9 Level-0 table #58: started
+2024/01/12-16:27:39.892 dc9 Level-0 table #58: 163330 bytes OK
+2024/01/12-16:27:39.926 dc9 Delete type=0 #51
+2024/01/12-16:27:39.944 dc9 Manual compaction at level-0 from '\x00\x07\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x08\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/01/12-16:27:39.945 dc9 Manual compaction at level-1 from '\x00\x07\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x08\x00\x00\x00' @ 0 : 0; will stop at '\x00\x08\x00\x00\x05' @ 309466 : 1
+2024/01/12-16:27:39.945 dc9 Compacting 1@1 + 2@2 files
+2024/01/12-16:27:40.059 dc9 Generated table #59@1: 2278 keys, 131851 bytes
+2024/01/12-16:27:40.059 dc9 Compacted 1@1 + 2@2 files => 131851 bytes
+2024/01/12-16:27:40.093 dc9 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/01/12-16:27:40.093 dc9 Delete type=2 #58
+2024/01/12-16:27:40.093 dc9 Manual compaction at level-1 from '\x00\x08\x00\x00\x05' @ 309466 : 1 .. '\x00\x08\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/01/12-16:27:58.625 dcc Level-0 table #61: started
+2024/01/12-16:27:58.822 dcc Level-0 table #61: 2402958 bytes OK
+2024/01/12-16:27:58.865 dcc Delete type=2 #55
+2024/01/12-16:27:58.865 dcc Delete type=0 #57
+2024/01/12-16:27:58.865 dcc Delete type=2 #54
+2024/01/12-16:27:59.776 dca Compacting 1@1 + 1@2 files
+2024/01/12-16:27:59.989 dca Generated table #62@1: 9720 keys, 1471942 bytes
+2024/01/12-16:27:59.990 dca Compacted 1@1 + 1@2 files => 1471942 bytes
+2024/01/12-16:28:00.029 dca compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/01/12-16:28:06.925 dca Level-0 table #64: started
+2024/01/12-16:28:07.117 dca Level-0 table #64: 2754219 bytes OK
+2024/01/12-16:28:07.153 dca Delete type=0 #60
+2024/01/12-16:28:07.153 dca Delete type=2 #59
+2024/01/12-16:28:07.154 dca Delete type=2 #61
+2024/01/12-16:28:07.818 dca Compacting 1@1 + 1@2 files
+2024/01/12-16:28:08.205 dca Generated table #65@1: 9522 keys, 2126287 bytes
+2024/01/12-16:28:08.295 dca Generated table #66@1: 2210 keys, 227963 bytes
+2024/01/12-16:28:08.296 dca Compacted 1@1 + 1@2 files => 2354250 bytes
+2024/01/12-16:28:08.393 dca compacted to: files[ 0 0 2 0 0 0 0 ]
+2024/01/12-16:28:08.394 dca Delete type=2 #64
+2024/01/12-16:28:08.394 dca Delete type=2 #62

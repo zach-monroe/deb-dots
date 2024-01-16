@@ -1,0 +1,6 @@
+2023/12/31-22:44:13.221 a48 Creating DB /home/z/.config/chromium/Profile 1/IndexedDB/https_dustinbrett.com_0.indexeddb.leveldb since it was missing.
+2023/12/31-22:44:13.355 a48 Reusing MANIFEST /home/z/.config/chromium/Profile 1/IndexedDB/https_dustinbrett.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/12/31-22:44:13.721 a54 Level-0 table #5: started
+2023/12/31-22:44:13.823 a54 Level-0 table #5: 573 bytes OK
+2023/12/31-22:44:13.901 a54 Delete type=0 #3
+2023/12/31-22:44:13.901 a48 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)

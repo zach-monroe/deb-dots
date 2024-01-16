@@ -1,0 +1,11 @@
+2024-01-14 21:02:32.590 [info] Extension host with pid 10750 started
+2024-01-14 21:02:32.590 [info] Skipping acquiring lock for /home/z/.config/Code/User/workspaceStorage/fc375b325ffda949f11b1e76a1f5280a.
+2024-01-14 21:02:32.687 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+2024-01-14 21:02:32.706 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-01-14 21:02:32.746 [info] Eager extensions activated
+2024-01-14 21:02:32.753 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-01-14 21:02:32.758 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-01-14 21:02:32.773 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2024-01-14 21:02:36.205 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+2024-01-14 21:02:50.351 [info] Extension host terminating: renderer closed the MessagePort
+2024-01-14 21:02:50.377 [info] Extension host with pid 10750 exiting with code 0

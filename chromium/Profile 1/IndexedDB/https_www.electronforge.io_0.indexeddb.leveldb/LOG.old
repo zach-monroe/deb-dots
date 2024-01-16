@@ -1,0 +1,6 @@
+2024/01/07-15:37:35.675 daa Creating DB /home/z/.config/chromium/Profile 1/IndexedDB/https_www.electronforge.io_0.indexeddb.leveldb since it was missing.
+2024/01/07-15:37:35.965 daa Reusing MANIFEST /home/z/.config/chromium/Profile 1/IndexedDB/https_www.electronforge.io_0.indexeddb.leveldb/MANIFEST-000001
+2024/01/07-15:37:37.698 db7 Level-0 table #5: started
+2024/01/07-15:37:37.856 db7 Level-0 table #5: 2535 bytes OK
+2024/01/07-15:37:38.045 db7 Delete type=0 #3
+2024/01/07-15:37:38.089 daa Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)

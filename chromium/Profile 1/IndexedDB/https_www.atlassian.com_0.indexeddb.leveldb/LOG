@@ -1,0 +1,6 @@
+2024/01/11-21:58:26.106 c19 Creating DB /home/z/.config/chromium/Profile 1/IndexedDB/https_www.atlassian.com_0.indexeddb.leveldb since it was missing.
+2024/01/11-21:58:26.242 c19 Reusing MANIFEST /home/z/.config/chromium/Profile 1/IndexedDB/https_www.atlassian.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/01/11-22:33:30.616 c19 Level-0 table #5: started
+2024/01/11-22:33:30.683 c19 Level-0 table #5: 56544 bytes OK
+2024/01/11-22:33:30.772 c19 Delete type=0 #3
+2024/01/11-22:33:30.773 c19 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

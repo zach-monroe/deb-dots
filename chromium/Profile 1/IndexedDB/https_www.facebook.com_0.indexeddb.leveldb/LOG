@@ -1,0 +1,28 @@
+2024/01/14-20:58:03.505 1d3a Reusing MANIFEST /home/z/.config/chromium/Profile 1/IndexedDB/https_www.facebook.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/01/14-20:58:03.505 1d3a Recovering log #63
+2024/01/14-20:58:03.561 1d3a Reusing old log /home/z/.config/chromium/Profile 1/IndexedDB/https_www.facebook.com_0.indexeddb.leveldb/000063.log 
+2024/01/14-20:58:14.259 1d3b Level-0 table #69: started
+2024/01/14-20:58:14.382 1d3b Level-0 table #69: 2998140 bytes OK
+2024/01/14-20:58:14.421 1d3b Delete type=0 #63
+2024/01/14-20:58:14.794 1d3a Compacting 1@1 + 2@2 files
+2024/01/14-20:58:14.905 1d3a Generated table #70@1: 8210 keys, 2126077 bytes
+2024/01/14-20:58:14.961 1d3a Generated table #71@1: 3215 keys, 418644 bytes
+2024/01/14-20:58:14.961 1d3a Compacted 1@1 + 2@2 files => 2544721 bytes
+2024/01/14-20:58:15.009 1d3a compacted to: files[ 0 0 2 0 0 0 0 ]
+2024/01/14-20:58:15.009 1d3a Delete type=2 #65
+2024/01/14-20:58:15.009 1d3a Delete type=2 #66
+2024/01/14-20:58:15.009 1d3a Delete type=2 #69
+2024/01/14-20:58:33.011 1d3b Level-0 table #73: started
+2024/01/14-20:58:33.103 1d3b Level-0 table #73: 1370458 bytes OK
+2024/01/14-20:58:33.137 1d3b Delete type=0 #68
+2024/01/14-20:58:33.137 1d3b Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2024/01/14-20:58:33.138 1d3b Manual compaction at level-1 from (begin) .. (end); will stop at '\x04\x08\x04\x01\x02\x03\x00\x00\x00\x00\x00\x00@@' @ 418107 : 1
+2024/01/14-20:58:33.138 1d3b Compacting 1@1 + 2@2 files
+2024/01/14-20:58:33.269 1d3b Generated table #74@1: 8473 keys, 2125323 bytes
+2024/01/14-20:58:33.359 1d3b Generated table #75@1: 3364 keys, 649580 bytes
+2024/01/14-20:58:33.359 1d3b Compacted 1@1 + 2@2 files => 2774903 bytes
+2024/01/14-20:58:33.403 1d3b compacted to: files[ 0 0 2 0 0 0 0 ]
+2024/01/14-20:58:33.403 1d3b Delete type=2 #71
+2024/01/14-20:58:33.403 1d3b Delete type=2 #73
+2024/01/14-20:58:33.403 1d3b Delete type=2 #70
+2024/01/14-20:58:33.404 1d3b Manual compaction at level-1 from '\x04\x08\x04\x01\x02\x03\x00\x00\x00\x00\x00\x00@@' @ 418107 : 1 .. (end); will stop at (end)

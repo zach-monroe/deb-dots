@@ -1,0 +1,20 @@
+2024-01-10 13:48:47.517 [info] update#setState idle
+2024-01-10 13:49:17.632 [info] update#setState checking for updates
+2024-01-10 13:49:17.634 [info] update#setState idle
+2024-01-10 14:42:22.119 [error] CodeWindow: failed to load (reason: <unknown>, code: -3)
+2024-01-10 14:45:14.119 [error] CodeWindow: failed to load (reason: <unknown>, code: -3)
+2024-01-10 14:45:26.643 [error] CodeWindow: failed to load (reason: <unknown>, code: -3)
+2024-01-10 14:45:33.581 [error] CodeWindow: failed to load (reason: <unknown>, code: -3)
+2024-01-10 14:47:02.082 [error] CodeWindow: failed to load (reason: <unknown>, code: -3)
+2024-01-10 14:47:06.368 [error] CodeWindow: failed to load (reason: <unknown>, code: -3)
+2024-01-10 14:48:39.580 [error] CodeWindow: failed to load (reason: <unknown>, code: -3)
+2024-01-10 14:49:03.349 [error] CodeWindow: failed to load (reason: <unknown>, code: -3)
+2024-01-10 14:49:17.636 [info] update#setState checking for updates
+2024-01-10 14:49:17.703 [info] update#setState idle
+2024-01-10 14:50:22.856 [error] CodeWindow: failed to load (reason: <unknown>, code: -3)
+2024-01-10 14:51:44.450 [error] CodeWindow: failed to load (reason: <unknown>, code: -3)
+2024-01-10 15:24:15.885 [warning] No ptyHost heartbeat after 6 seconds
+2024-01-10 15:24:20.730 [info] Extension host with pid 21586 exited with code: 0, signal: unknown.
+2024-01-10 15:24:22.643 [error] No ptyHost heartbeat after 12 seconds
+2024-01-10 15:24:23.947 [warning] [storage main] detected slow close() operation: Time: 15255ms, DB size: 65536b, Large Keys: memento/workbench.editors.files.textFileEditor:4603, history.entries:4593, workbench.view.extensions.state:1963, __$__targetStorageMarker:1762, terminal.integrated.environmentVariableCollectionsV2:1191
+2024-01-10 15:24:24.121 [warning] [storage main] detected slow close() operation: Time: 15500ms, DB size: 163840b, Large Keys: iconThemeData:90164, colorThemeData:16272, workbench.activity.placeholderViewlets:4192, memento/experiment.service.memento:3366, __$__targetStorageMarker:2287

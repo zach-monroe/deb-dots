@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Mondrian Project</title>
+  <style>
+    .container{
+      display: grid;
+      grid-template-columns: 320px 198px 153px 50px;
+      grid-template-rows: 414px 130px 155px 20px;
+    }
+    .container > * {
+      border: 5px solid black;
+    }
+    .Red{
+      background-color: #E72F24;
+    }
+
+    .White{
+      background-color: #F0F1EC;
+    }
+    .one{
+      grid-column: span 3;
+    }
+    .two{
+      grid-row: span 2;
+    }
+    .three{
+      grid-area: 2 / 2 / 4 / 4;
+    }
+
+    .Black{
+      background-color: #232629;
+    }
+
+    .Yellow{
+      background-color: #F9D01E;
+    }
+    .Blue{
+      background-color: #004592 ;
+    }
+    .four{
+      grid-area: 3 / 4 / 5 / 5;
+    }
+/*
+    Gap: #000
+    White: #F0F1EC
+    Red: #E72F24
+    Black: #232629
+    Blue: #004592
+    Yellow: #F9D01E
+    */
+  </style>
+</head>
+
+<body>
+  <div class="container">
+    <div class="Red"></div>
+    <div class="White one"></div>
+    <div class="White two"></div>
+    <div class="Blue"></div>
+    <div class="White three"></div>
+    <div class="White four"></div>
+    <div class="White five"></div>
+    <div class="Yellow"></div>
+    <div class="Black"></div>
+  </div>
+</body>
+
+</html>

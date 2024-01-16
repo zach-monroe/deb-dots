@@ -1,0 +1,19 @@
+[global_config]
+  borderless = True
+  tab_position = hidden
+[keybindings]
+[profiles]
+  [[default]]
+    background_darkness = 0.63
+    background_type = transparent
+    show_titlebar = False
+    title_transmit_bg_color = "#26a269"
+[layouts]
+  [[default]]
+    [[[window0]]]
+      type = Window
+      parent = ""
+    [[[child1]]]
+      type = Terminal
+      parent = window0
+[plugins]

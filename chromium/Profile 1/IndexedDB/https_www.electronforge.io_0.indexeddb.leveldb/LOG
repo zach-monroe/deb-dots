@@ -1,0 +1,7 @@
+2024/01/07-15:38:34.174 daa Reusing MANIFEST /home/z/.config/chromium/Profile 1/IndexedDB/https_www.electronforge.io_0.indexeddb.leveldb/MANIFEST-000001
+2024/01/07-15:38:34.176 daa Recovering log #4
+2024/01/07-15:38:34.176 daa Reusing old log /home/z/.config/chromium/Profile 1/IndexedDB/https_www.electronforge.io_0.indexeddb.leveldb/000004.log 
+2024/01/07-15:38:36.056 dad Level-0 table #8: started
+2024/01/07-15:38:36.146 dad Level-0 table #8: 3193 bytes OK
+2024/01/07-15:38:36.237 dad Delete type=0 #4
+2024/01/07-15:38:36.238 dad Manual compaction at level-0 from '\x00\x06\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x07\x00\x00\x00' @ 0 : 0; will stop at (end)

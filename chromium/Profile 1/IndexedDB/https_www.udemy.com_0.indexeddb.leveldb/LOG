@@ -1,0 +1,15 @@
+2024/01/12-13:21:31.945 c19 Reusing MANIFEST /home/z/.config/chromium/Profile 1/IndexedDB/https_www.udemy.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/01/12-13:21:31.946 c19 Recovering log #11
+2024/01/12-13:21:32.002 c19 Reusing old log /home/z/.config/chromium/Profile 1/IndexedDB/https_www.udemy.com_0.indexeddb.leveldb/000011.log 
+2024/01/12-13:52:15.834 c1a Level-0 table #16: started
+2024/01/12-13:52:15.878 c1a Level-0 table #16: 9410 bytes OK
+2024/01/12-13:52:15.915 c1a Delete type=0 #11
+2024/01/12-13:52:15.917 c1a Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2024/01/12-13:52:15.917 c1a Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x02\x08\x02\x03\x00\x00\x00\x00\x00\x00\xf0?' @ 726 : 1
+2024/01/12-13:52:15.918 c1a Compacting 1@1 + 1@2 files
+2024/01/12-13:52:15.968 c1a Generated table #17@1: 89 keys, 2087 bytes
+2024/01/12-13:52:15.968 c1a Compacted 1@1 + 1@2 files => 2087 bytes
+2024/01/12-13:52:16.004 c1a compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/01/12-13:52:16.004 c1a Delete type=2 #16
+2024/01/12-13:52:16.005 c1a Delete type=2 #13
+2024/01/12-13:52:16.005 c1a Manual compaction at level-1 from '\x00\x02\x08\x02\x03\x00\x00\x00\x00\x00\x00\xf0?' @ 726 : 1 .. (end); will stop at (end)

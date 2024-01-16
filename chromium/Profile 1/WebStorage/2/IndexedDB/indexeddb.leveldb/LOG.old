@@ -1,0 +1,4 @@
+2024/01/14-16:45:15.848 28bf Reusing MANIFEST /home/z/.config/chromium/Profile 1/WebStorage/2/IndexedDB/indexeddb.leveldb/MANIFEST-000001
+2024/01/14-16:45:15.849 28bf Recovering log #319
+2024/01/14-16:45:15.933 28bf Reusing old log /home/z/.config/chromium/Profile 1/WebStorage/2/IndexedDB/indexeddb.leveldb/000319.log 
+2024/01/14-16:45:15.934 28bf Delete type=2 #317

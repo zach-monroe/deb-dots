@@ -1,0 +1,10 @@
+2024-01-09 21:33:39.821 [info] update#setState idle
+2024-01-09 21:34:09.923 [info] update#setState checking for updates
+2024-01-09 21:34:09.925 [info] update#setState idle
+2024-01-09 21:53:25.728 [error] CodeWindow: detected unresponsive
+2024-01-09 21:53:47.614 [warning] No ptyHost heartbeat after 6 seconds
+2024-01-09 21:53:48.217 [error] ptyHost terminated unexpectedly with code 0
+2024-01-09 21:53:57.221 [error] Blocked vscode-file request vscode-file://vscode-app/snap/code/148/usr/share/code/resources/app/out/vs/base/worker/workerMain.js#editorWorkerService
+2024-01-09 21:54:00.158 [warning] [storage main] detected slow close() operation: Time: 3958ms, DB size: 65536b, Large Keys: history.entries:4324, memento/workbench.editors.files.textFileEditor:3703, workbench.view.extensions.state:1963, memento/workbench.parts.editor:1957, __$__targetStorageMarker:1762
+2024-01-09 21:54:00.159 [warning] [storage main] detected slow close() operation: Time: 4373ms, DB size: 163840b, Large Keys: iconThemeData:90164, colorThemeData:16272, memento/experiment.service.memento:3366, workbench.activity.placeholderViewlets:3002, __$__targetStorageMarker:2287
+2024-01-09 21:54:00.429 [info] Extension host with pid 11218 exited with code: 0, signal: unknown.
